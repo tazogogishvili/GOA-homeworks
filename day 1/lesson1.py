@@ -35,3 +35,4 @@ isUgly = False #ჯავასკრიპტული cameLcase
 
 print( "me" " " "var" " " "tazo" " " "gogishvili " " " "16" " " "wlis" " " "simagle" " " "180")
 print("me" " " "var" + " " + name + " " + str(surname) + " " + str(age) + " " "wlis" + " " + "simagle" + " " + str(height))
+print( "me vat tazo gogishvili 16 wlis")

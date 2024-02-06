@@ -1,0 +1,5 @@
+print("gamoviwere Low Budget Stories")
+print("nayurebi maq goas youtube arxze yvela videos da gadavxedav tavidan")
+print("jerjerobit marto davit janashia gavicani goashi chemi razmis lideri")
+print("da dzalian sasiamovno pirovneba agmochnda aseve dzalian yuradgebiani")
+print("dzalian didi imedi maqq da shevecdebi rom warmatebas mivagwio goashi")
