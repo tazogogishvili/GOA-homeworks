@@ -442,16 +442,10 @@ forward(30)
 goto(x=0,y=-300)
 pendown()
 
-color("lightblue")
+color("darkblue")
 begin_fill()
 circle(140)
 end_fill()
-
-
-
-
-
-
 
 
 
