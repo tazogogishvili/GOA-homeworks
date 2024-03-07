@@ -24,6 +24,6 @@ print(deadlift_target == complited_deadlifts or pushups_target == complited_push
 # if you complite pushups you won!
 
 i = complited_pushups
-if complited_pushups >= 100:
+if i >= 100:
     print("you won challenge!")
-   
+
