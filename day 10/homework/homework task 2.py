@@ -10,11 +10,14 @@
 
 
 
-# for x in range(50,100 + 1):
-#      x = range(50, 100 + 1)
-#      a = x
-#      b = sum(a)
-#      print(b)
+# # sum = 0
+# jami = 0
+
+
+# for i in range(50, 100 + 1):
+#     jami = jami + i
+# #     sum += i
+# print("The sum of numbers from 50 to 100 inclusive is:", jami)
 
 
 # ricxvta jami
@@ -31,11 +34,9 @@
  დაპრინტეთ საიტერაციო ცვლადის მნიშვნელობა ყოველ ციკლის დატრიალებაზე."""
 
 
-# for i in range(-10, 10):
-#     while i <= 10:
-#      print(i)
-#      i = i + 3
-     
+# for i in range(-10, 10 + 1, 3):
+#     print(i)
+       
 
 
 
