@@ -58,8 +58,15 @@
 # sum = sum / 3
 # print(sum)
 
+#####################################################################
 
-# num = int(input("Write any number from one to nine: ")) #5
+# num1 = int(input("Please enter first number: "))
+# num2 = int(input("Please enter second number: "))
+# num3 = int(input("Please enter third number: "))
+
+# result = (num1 + num2 + num3) / 3
+
+# print(result)
 
 
 
@@ -200,7 +207,7 @@
 
 """
 დაწერეთ პროგრამა, რომელიც სთხოვს მომხმარებელს შეიყვანოს რიცხვი 1-დან 5-ის ჩათვლით.
-    თუ რიცხვი არის 1-ზე ნაკლები ან 5-ზე მეტი, დაბეჭდეთ "Invalid input".
+   თუ რიცხვი არის 1-ზე ნაკლები ან 5-ზე მეტი, დაბეჭდეთ "Invalid input".
    თუ რიცხვი 1-დან 5-ის ჩათვლითაა, დაბეჭდეთ "Valid input"""
 
 # # ვადეკლარირებთ int ტიპის ცვლადს
@@ -213,10 +220,4 @@
 # else:
 #     num == range(1, 5 + 1)
 #     print("valid input")
-
-
-
-
-
-
 
